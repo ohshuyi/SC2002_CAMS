@@ -1,0 +1,59 @@
+Camp Name: SCSE TOP
+Start Date: 2024-08-15
+End Date: 2024-08-18
+Registration Closing Date: 2024-08-01
+Faculty: SCSE
+Location: AIA Canopy
+Total Slots: 700
+Remaining Slots: 677
+Camp Committee Slots: 10
+Staff in Charge: HUKUMAR
+Description: SCSE top 5
+
+Camp Committee Members | Points
+1. ELIJAH | 40
+2. WEILIANG | 23
+3. CHLOE | 21
+4. AARON | 4
+
+--------------------------------------------
+
+Camp Name: SCSE TOP 2
+Start Date: 2024-08-09
+End Date: 2024-08-14
+Registration Closing Date: 2024-08-01
+Faculty: SCSE
+Location: AIA Canopy
+Total Slots: 700
+Remaining Slots: 683
+Camp Committee Slots: 7
+Staff in Charge: HUKUMAR
+Description: scse orientation 2
+
+Camp Committee Members | Points
+1. DENISE | 30
+2. JOSEPH | 21
+3. HARVEY | 17
+4. AUBREY | 16
+5. EMILY | 5
+6. AVERY | 0
+
+--------------------------------------------
+
+Camp Name: SCSE TOP 4
+Start Date: 2024-09-13
+End Date: 2024-09-20
+Registration Closing Date: 2024-09-05
+Faculty: SCSE
+Location: North Spine
+Total Slots: 200
+Remaining Slots: 199
+Camp Committee Slots: 5
+Staff in Charge: HUKUMAR
+Description: SCSE orientation 4
+
+Camp Committee Members | Points
+1. CHERN | 0
+
+--------------------------------------------
+
