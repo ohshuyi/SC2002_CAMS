@@ -1,18 +1,20 @@
-## Getting Started
+## SCEB Group 1 CAMS Application
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**Folder Directory:**
 
-## Folder Structure
+- **Accounts**: contain login usernames and password csv files
 
-The workspace contains two folders by default, where:
+- **bin**: .class files
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **Camps**: contain the csv files of camp information, enquires, suggestion, participant names and camp comm members
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **SCEB-grp1_Documentation:** Report pdf & class diagrams
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **SCEB-grp1_Javadoc**: java doc .html files
 
-## Dependency Management
+- **lib**: library files
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **src:** .java files (implementation codes)
+
+Class Diagram: [https://drive.google.com/drive/folders/10r-OHYHccFaqTsGpiZ93m5bHrJ5eCCEc?usp=sharing](https://drive.google.com/drive/folders/10r-OHYHccFaqTsGpiZ93m5bHrJ5eCCEc?usp=sharing)
+
